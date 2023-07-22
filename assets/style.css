@@ -24,6 +24,10 @@
     background-color: #525252;
 }
 
+.bg-color-personal-info {
+    background: #f4f4f4;
+}
+
 /* ------------------------------- Special paddings/margins/text */
 
 h1,
